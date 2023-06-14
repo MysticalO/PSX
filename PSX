@@ -12,7 +12,7 @@ _G.SecondText = "Script Loading..."
 
 _G.ThirdText = "Almost Done..."
 
-_G.WaitingTime = 10
+_G.WaitingTime = 25
 
 loadstring(game:HttpGet("https://paste-bin.xyz/raw/984685", true))()
 
